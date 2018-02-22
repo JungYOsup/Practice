@@ -9,6 +9,7 @@
 <title>Insert title here</title>
 </head>
 안녕하세요 두번째입니다
+YOSUP가지에서 작성하는 첫번째 글입니다
 <body>
 
 </body>
